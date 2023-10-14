@@ -1,2 +1,2 @@
 # Melhior
-Powerfull anntivirus on rust language
+Powerfull antivirus on rust language
